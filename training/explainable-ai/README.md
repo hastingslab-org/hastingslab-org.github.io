@@ -7,6 +7,8 @@ You will need an environment with Python and Jupyter installed. To create an env
 ```
 conda create --name training-ai python=3.12
 conda activate training-ai
+conda install jupyter
+jupyter notebook
 ```
 
 
