@@ -7,8 +7,8 @@
 You will need an environment with Python and Jupyter installed. To create an environment with Anaconda for Python 3.12, execute: 
 
 ```
-conda create --name llm-narrative python=3.12
-conda activate llm-narrative
+conda create --name image-faceage python=3.12
+conda activate image-faceage
 conda install jupyter
 jupyter notebook
 ```
