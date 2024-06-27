@@ -15,4 +15,4 @@ conda install jupyter
 jupyter notebook
 ```
 
-If you want to use this notebook on **any other machine** we recomemnd downloading and opening the notebook in [Google Colab]{https://colab.research.google.com/}. After opening the notebook there, please change the settings to using a GPU, check [here]{https://www.geeksforgeeks.org/how-to-use-gpu-in-google-colab/} for instructions on how to do that.
+If you want to use this notebook on **any other machine** we recomemnd downloading and opening the notebook in [Google Colab](https://colab.research.google.com/). After opening the notebook there, please change the settings to using a GPU, check [here](https://www.geeksforgeeks.org/how-to-use-gpu-in-google-colab/) for instructions on how to do that.
